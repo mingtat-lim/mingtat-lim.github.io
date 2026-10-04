@@ -1,0 +1,1 @@
+function e(e,t,n){return e?`${t} ${n}`:t}export{e as t};

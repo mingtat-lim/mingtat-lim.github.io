@@ -1,0 +1,1 @@
+function e(e){return e.charAt(0).toUpperCase()+e.slice(1)}function t(e,t,n){return n<=t?t:Math.min(n,Math.max(t,e))}function n(e,t,n){if(n<=t)return t;let r=n-t+1,i=t+(e-t)%r;return i<t&&(i=r+i),i===0?0:i}function r(e,t=2,n=`0`){return e==null?e:String(e).padStart(t,n)}export{r as i,e as n,n as r,t};
