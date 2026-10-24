@@ -1,1 +1,0 @@
-import{G as e}from"./QBtn-CADJBxVS.js";import{c as t,d as n,l as r,u as i}from"./index-CD9onTh7.js";var a=e({name:`QField`,inheritAttrs:!1,props:{...i,tag:{type:String,default:`label`}},emits:r,setup(){return t(n({tagProp:!0}))}});export{a as t};
